@@ -94,4 +94,4 @@ Components include:
 # Installation
 
 Clone the repository:
-https://github.com/your-username/Hybrid-Quantum-CNN.git
+https://github.com/devabhinavraj/Hybrid-Quantum-CNN/blob/main/quantum_cnn.ipynb
